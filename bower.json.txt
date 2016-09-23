@@ -1,0 +1,8 @@
+{
+    "name": mintonresources
+    "version": "1.0.0",
+    "ignore": [
+        "bower.json",
+        "README.md"
+    ],
+}
